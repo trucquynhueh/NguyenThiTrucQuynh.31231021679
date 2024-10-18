@@ -8,7 +8,7 @@ namespace NguyenThiTrucQuynh._31231021679
 {
     internal class SECTION2
     {
-        public static void Main()
+        public static void Main1()
         {
             //Question_01();
             //Question_02();
