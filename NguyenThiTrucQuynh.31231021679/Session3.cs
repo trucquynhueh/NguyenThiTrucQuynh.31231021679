@@ -11,8 +11,9 @@ namespace NguyenThiTrucQuynh._31231021679
         public static void Main()
         {
 
-           //Question_01();
-            Question_02();
+            //Question_01();
+            //Question_02();
+            Question_03();
 
             Console.WriteLine("Press any key to stop");
             Console.ReadKey();
@@ -55,11 +56,20 @@ namespace NguyenThiTrucQuynh._31231021679
         {
 
             Console.Write("Enter number a: ");
+            float a = float.Parse(Console.ReadLine());
+
             Console.Write("Enter number b: ");
-            float a = float.Parse(Console.ReadLine()); 
-            float b = float.Parse(Console.ReadLine()); 
+            float b = float.Parse(Console.ReadLine());
             float adding = a + b;
-            
+            float subtract = a - b;
+            float multiply = a * b;
+            float divide = a / b;
+
+            Console.WriteLine($"Result of adding is = {adding}");
+            Console.WriteLine($"Result of subtracting is = {subtract}");
+            Console.WriteLine($"Result of multiplying is = {multiply}");
+            Console.WriteLine($"Result of dividing is = {divide}");
+
 
         }
 
