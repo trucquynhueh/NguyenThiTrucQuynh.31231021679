@@ -8,7 +8,7 @@ namespace NguyenThiTrucQuynh._31231021679
 {
     internal class Session3
     {
-        public static void Main()
+        public static void Main1()
         {
 
             //Question_01();
