@@ -1,4 +1,4 @@
-﻿using System;
+﻿   using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices.Marshalling;
@@ -11,7 +11,7 @@ namespace NguyenThiTrucQuynh._31231021679
 {
     internal class Session5
     {
-        public static void Main()
+        public static void Main9()
         {
             //Question_01();
             //Question_02();
