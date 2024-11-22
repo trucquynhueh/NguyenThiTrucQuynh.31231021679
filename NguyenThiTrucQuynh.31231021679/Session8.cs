@@ -73,7 +73,9 @@ namespace NguyenThiTrucQuynh._31231021679
             }
 
 
-            //to compare two strings without using a string library functions.
+            
+
+
         }
     }
 }
