@@ -11,7 +11,7 @@ namespace NguyenThiTrucQuynh._31231021679
     internal class Session6
     {
 
-        public static void Main()
+        public static void Main8()
         {
             Console.Write("Nhap so phan tu mang n: ");
             int n = int.Parse(Console.ReadLine());
